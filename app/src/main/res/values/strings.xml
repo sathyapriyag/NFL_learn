@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NFL</string>
+    <string name="title">2020 Regular Season</string>
+    <string name="team">Eagles</string>
+    <string name="opponent">FALCONS</string>
+    <string name="score">34</string>
+    <string name="date">Thu, Oct 14</string>
+    <string name="time">8.30PM</string>
+    <string name="season">Preseason 1</string>
+    <string name="tv">ESPN</string>
+    <string name="bye">BYE</string>
+</resources>
